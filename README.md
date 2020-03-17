@@ -1,6 +1,6 @@
 # swbc-8DOF
 
-To run this program, download the SWBC library in http://stanford-wbc.sourceforge.net/doxy/tutorials-page.html. Moreover, the dependecies must be download and then build the SWBC properly.
+To run this program, download the SWBC library in http://stanford-wbc.sourceforge.net/doxy/tutorials-page.html. Moreover, the dependecies must be downloaded and then built properly.
 
 After this, copy the four files: Control_code.cpp, tutsim1.cpp, tutsim1.hpp, tutrob1.xml and CMakelist.txt.
 
