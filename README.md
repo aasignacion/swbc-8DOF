@@ -12,4 +12,4 @@ This code is based on Tut05 code for task-space control or end-effector control.
 
 Mode 0: No control Mode 1: PD control with no disturbance Mode 2: PD control with with disturbance Mode 3: ISMC with disturbance Mode 4: Proposed Control: ISMC + DOB with disturbance
 
-Modes can switched by clicking the togglt button on the GUI.
+Modes can switched by clicking the toggl3 button on the FLTK GUI.
